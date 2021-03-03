@@ -5,4 +5,4 @@ https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data
 
 https://github.com/khamidieh/predict_tc
 
-![T_c](SuperT_c.png)
+![T_c](SuperT_c2.png)
