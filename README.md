@@ -1,4 +1,4 @@
-**Predicting Superconducting Critical Temperatures (Tc) using Machine Learning**
+**Predicting Superconducting Critical Temperatures (Tc) using Machine Learning Models**
 ![T_c](SuperT_c2.png)
 
 Superconductors are materials that exhibit zero electrical resistance and the expulsion of magnetic fields at extremely low temperatures. The temperature at which a superconductor transitions to this state is known as the critical temperature (Tc). Predicting the critical temperature of superconducting materials is a crucial task with potential applications in various fields, including energy transmission and storage.
